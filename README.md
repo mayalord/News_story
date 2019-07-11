@@ -8,3 +8,10 @@
 “It kind of just came as a way to embody all the good I wanted to do in the world,” Van Dorn told The Dodo, “and make it easy for people to talk to me right off the bat.”
 
 ![Image]( batman_puppies.jpg "batman")
+
+
+Bullet list 
+
+* Saves animals from euthenasia 
+* Wears batman costume 
+* 
