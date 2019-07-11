@@ -12,6 +12,5 @@
 
 Bullet list 
 
-* Saves animals from euthenasia 
+* Saves animals from euthanasia 
 * Wears batman costume 
-* 
