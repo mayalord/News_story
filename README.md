@@ -3,7 +3,7 @@
 
 ## Guy Dressed as Batman Has Rescued Dozens of Shelter Pets From Euthanasia
 
-27-year-old **Chris Van Dorn** has always been a fan of the _beloved Caped Crusader_; so when he began volunteering for various animal rescue organizations around Orlando, Florida, he decided to combine his two passions and use a Batman suit to bring attention to the importance of pet adoption.
+27-year-old **Chris Van Dorn** has always been a fan of the __beloved Caped Crusader__; so when he began volunteering for various animal rescue organizations around Orlando, Florida, he decided to combine his two passions and use a Batman suit to bring attention to the importance of pet adoption.
 
 > "It kind of just came as a way to embody all the good I wanted to do in the world,” Van Dorn told The Dodo, “and make it easy for people to talk to me right off the bat."
 
