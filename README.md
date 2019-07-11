@@ -9,8 +9,7 @@
 
 ![Image]( batman_puppies.jpg "batman")
 
-
-Bullet list 
+Main Points: 
 
 * Saves animals from euthanasia 
 * Wears batman costume 
