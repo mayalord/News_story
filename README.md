@@ -15,3 +15,38 @@ Main Points:
 * Wears batman costume 
 
 [Read the whole article here](https://www.goodnewsnetwork.org/guy-dressed-as-batman-rescues-shelter-pets-from-euthanasia/)
+
+
+
+
+os.getcwd()
+
+
+with open('eaton-boy-scouts_EN.txt') as f:
+    content = f.read()
+    
+print(content)
+
+ with open('README.md', encoding='utf-8') as f:
+    for line in f:
+        print('>', line)
+        
+        
+        
+with open('README.d)
+
+
+
+with open('foo.txt', 'w') as f:
+    f.write('bar\n')
+    
+
+
+ with open('heroes.txt', 'w') as f:
+    for h in heroes:
+        f.write(h  + 'is a hero\n')
+        
+        
+
+
+
